@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Node.create(body: 'My first post')
+Node.create(body: 'My second post')
+Node.create(body: 'My third post')
+
